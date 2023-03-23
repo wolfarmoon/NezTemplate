@@ -1,0 +1,1 @@
+# Write the shell file for windows later. Now just focusing in linux shell. uwu
