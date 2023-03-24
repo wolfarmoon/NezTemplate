@@ -2,7 +2,7 @@
 This is an updated reimplementation that *actually works* based on the 
 fork of [FNA-VSCode-Template (For Nez)](https://github.com/prime31/FNA-VSCode-Template/) for having a quick setup with FNA and NEZ.
 ## Features
-* Got rid of MonoGame Content pipeline. (If you want it go to the MGCP section below.)
+* Got rid of MonoGame Content pipeline. (If you want it go to the MonoGame Content Pipeline section below.)
 * All other good features from [FNA-VSCode-Template](https://github.com/prime31/FNA-VSCode-Template/)
 ---
 ## Using
