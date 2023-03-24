@@ -4,7 +4,7 @@ fork of [FNA-VSCode-Template (For Nez)](https://github.com/prime31/FNA-VSCode-Te
 ## Features
 * Got rid of MonoGame Content pipeline. 
 * All other good features from [FNA-VSCode-Template](https://github.com/prime31/FNA-VSCode-Template/)
----
+
 ## Using
 > See [the Prerequisites from FNA-VSCode-Template](https://github.com/prime31/FNA-VSCode-Template/#prerequisites)
 
