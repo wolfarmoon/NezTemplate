@@ -1,6 +1,6 @@
 #!/bin/bash
 # An improved version of getFNA from Caleb Cornett.
-
+rm -rf .git # Remove the Template git directory. Was causing "fatal: unknown index entry format 0x63740000"
 # Checks if dotnet is installed
 function checkDotnet()
 {
