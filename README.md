@@ -14,4 +14,4 @@ git https://github.com/wolfarmoon/NezTemplate/ . && ./CreateProject.sh
 ```
   > **Note**:  if you are using Windows, use the `CreateProject.ps1` instead. (Not tested in Windows yet)
 # Acknowledgements
-Thanks to **optimo** for the vscode tasks and launch for linux also for all the help that he gave me.
+Thanks to **[@optimo](https://github.com/optimo)** for the vscode tasks and launch for linux also for all things in which he helped me.
