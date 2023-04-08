@@ -15,11 +15,11 @@ namespace #project#
                 .SetPosition(new Vector2(150, 150))
                 .AddComponent<DemoComponent>()
                 .AddComponent(new PrototypeSpriteRenderer(20, 20));
-
-            var logo = Content.Load<Texture2D>("nez-logo-black");
+	    // TODO: make this thing work
+            // var logo = Content.Load<Texture2D>("nez-logo-black");
             CreateEntity("logo")
-                .SetPosition(Screen.Center)
-                .AddComponent(new SpriteRenderer(logo));
+                .SetPosition(Screen.Center);
+            //    .AddComponent(new SpriteRenderer(logo));
         }
     }
 }
